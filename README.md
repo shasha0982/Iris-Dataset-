@@ -2,6 +2,5 @@
 
 Dataset CSV - https://www.kaggle.com/datasets/uciml/iris
 
-Data Analysis -
-
-Machine Learning K-Means Clustering - 
+Solution : Data Analysis & 
+Machine Learning K-Means Clustering - https://github.com/shasha0982/Iris-Dataset-/blob/main/My_Project_Iris_Species.ipynb
